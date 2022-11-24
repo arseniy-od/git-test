@@ -4,6 +4,6 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('Git')
-    print_hi('Neo')
+    print_hi('Test')
 
 
